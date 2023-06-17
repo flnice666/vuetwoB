@@ -5,7 +5,7 @@ export default {
             {
                 path: '/',
                 name: 'home',
-                label: '首页',
+                label: '首页呢',
                 icon: 's-home',
                 url: 'Home/Home'
             },
